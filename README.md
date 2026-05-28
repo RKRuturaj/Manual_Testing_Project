@@ -2,7 +2,7 @@ Manual Testing Project
 
 A comprehensive Manual Testing Project designed to validate the functionality, usability, and reliability of the application through structured test scenarios and test cases.
 
-Project Highlights
+--> Project Highlights
 
 ✔️ Requirement Analysis
 
@@ -18,34 +18,35 @@ Project Highlights
 
 ✔️ Test Execution Tracking
 
-Tools & Technologies
-Microsoft Excel
+--> Tools & Technologies
+a. Microsoft Excel
 
-Manual Testing Techniques
+b. Manual Testing Techniques
 
-Defect Reporting
+c. Defect Reporting
 
-Testing Types Covered
-Functional Testing
+--> Testing Types Covered
+a. Functional Testing
 
-UI Testing
+b. UI Testing
 
-Regression Testing
+c. Regression Testing
 
-Smoke Testing
+d. Smoke Testing
 
-Validation Testing
+e. Validation Testing
 
-Key Features
-Well-structured test cases
+--> Key Features
+a. Well-structured test cases
 
-Detailed test scenarios
+b. Detailed test scenarios
 
-Expected vs Actual Result validation
+c. Expected vs Actual Result validation
 
-Test status tracking
-Professional documentation format
+d. Test status tracking
 
-Objective
+e. Professional documentation format
+
+--> Objective
 
 To ensure the application works according to business requirements by identifying defects and validating all major functionalities.
