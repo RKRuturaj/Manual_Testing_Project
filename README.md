@@ -19,6 +19,7 @@ A comprehensive Manual Testing Project designed to validate the functionality, u
 ✔️ Test Execution Tracking
 
 --> Tools & Technologies
+
 a. Microsoft Excel
 
 b. Manual Testing Techniques
@@ -26,6 +27,7 @@ b. Manual Testing Techniques
 c. Defect Reporting
 
 --> Testing Types Covered
+
 a. Functional Testing
 
 b. UI Testing
@@ -37,6 +39,7 @@ d. Smoke Testing
 e. Validation Testing
 
 --> Key Features
+
 a. Well-structured test cases
 
 b. Detailed test scenarios
