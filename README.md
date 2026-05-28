@@ -5,11 +5,17 @@ A comprehensive Manual Testing Project designed to validate the functionality, u
 Project Highlights
 
 ✔️ Requirement Analysis
+
 ✔️ Test Scenario Creation
+
 ✔️ Test Case Design
+
 ✔️ Defect Identification & Reporting
+
 ✔️ Functional Testing
+
 ✔️ Positive & Negative Testing
+
 ✔️ Test Execution Tracking
 
 Tools & Technologies
