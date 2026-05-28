@@ -20,20 +20,29 @@ Project Highlights
 
 Tools & Technologies
 Microsoft Excel
+
 Manual Testing Techniques
+
 Defect Reporting
 
 Testing Types Covered
 Functional Testing
+
 UI Testing
+
 Regression Testing
+
 Smoke Testing
+
 Validation Testing
 
 Key Features
 Well-structured test cases
+
 Detailed test scenarios
+
 Expected vs Actual Result validation
+
 Test status tracking
 Professional documentation format
 
